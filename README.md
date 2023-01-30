@@ -91,6 +91,7 @@ For a more complete and detailed listing, see the spreadsheet above.
 * [**Avisoft-SASLab Pro**](http://www.avisoft.com/sound-analysis/) (paid) - automated detection
 * [BatExplorer](https://www.batlogger.com/en/products/batexplorer/) (free and paid versions) - bat call detection
 * [BatDetect](https://github.com/macaodha/batdetect) (free) - bat detection in full-spectrum (i.e., not zero-crossing) recordings
+* [BatDetect2](https://github.com/macaodha/batdetect2) (free) - bat detection in full-spectrum (i.e., not zero-crossing) recordings
 * [bioacoustics](https://github.com/wavx/bioacoustics/) (free) - R package for sound filtering, automated detection, and extraction of acoustic features
 * [BirdVoxDetect](https://github.com/BirdVox/birdvoxdetect) (free) - machine learning-based detection for nocturnal flight calls
 * [CARACAL](https://github.com/OpenWild/caracal) (free) - sound detection for acoustic localization
@@ -118,6 +119,7 @@ For a more complete and detailed listing, see the spreadsheet above.
 * [Avisoft-SASLab Pro](http://www.avisoft.com/sound-analysis/) (paid) - classification by spectrographic template cross-correlation
 * [AviaNZ](http://www.avianz.net/index.php) (free) - configure your own "filters" for certain species or download pre-configured filters
 * [BatClassify](https://bitbucket.org/chrisscott/batclassify/src) (free) - segmentation and classification of ultrasonic sounds
+* [BatDetect2](https://github.com/macaodha/batdetect2) (free) - bat detection in full-spectrum (i.e., not zero-crossing) recordings
 * [BatExplorer](https://www.batlogger.com/en/products/batexplorer/) (free and paid versions) - bat classification
 * [BatScope](https://www.wsl.ch/en/services-and-products/software-websites-and-apps/batscope-4.html) (free) - classify bat recordings
 * [Banter](https://github.com/EricArcher/banter) (free) - create your own hierarchical acoustic classifiers
